@@ -9,4 +9,23 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_title">Resepque</string>
+    <string name="snackbar_content">snackbar</string>
+    <string name="logo_desc">resepque logo</string>
+    <string name="text_search">search</string>
+    <string name="content_description">content description</string>
+    <string name="title_activity_add_edit_recipe">AddEditRecipeActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="button_choose_image">choose image</string>
+    <string name="colon">:</string>
+    <string name="new_recipe_text">New Recipe</string>
+    <string name="title_activity_view_recipe">ViewRecipeActivity</string>
+    <string name="title_activity_image_picker">ImagePickerActivity</string>
+    <string name="label_choose_image">Set recipe image</string>
+    <string name="label_take_camera">Take camera</string>
+    <string name="label_choose_gallery">Choose from gallery</string>
 </resources>
